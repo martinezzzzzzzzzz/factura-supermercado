@@ -12,8 +12,8 @@
  
 ### 1️⃣ Clonar el repositorio
 # Ejecuta el siguiente comando en la terminal:
-# git clone URL_DEL_REPOSITORIO
-# 🔹 Reemplaza `https://github.com/martinezzzzzzzzzz/factura-supermercado.git` con la URL real de GitHub.
+# git clone https://github.com/martinezzzzzzzzzz/factura-supermercado.git
+
  
 ### 2️⃣ Crear y activar un entorno virtual
 # En Windows:
@@ -38,15 +38,13 @@
 ## 📦 Dependencias Utilizadas
 # El proyecto usa las siguientes librerías externas:
  
-# - **(Ejemplo de librería)**: Se usa para (explicar propósito).
-# - **(Ejemplo de librería)**: Se usa para (explicar propósito).
+# - **(tabulate)**: Se usa para (dar un aspecto de tabla a la factura).
  
 # Para instalar todas las dependencias, usa:
 # pip install -r requirements.txt
  
 ## 🤝 Contribuciones
 # | Miembro | Rol |
-# |---------|-----|
 # | **[Emanuel Martínez Valencia]** | Desarrollador de interfaz|
 # | **[Miguel Patiño]** | Desarrollador de la lógica |
 # | **[Juan Sebastían Correa]** | Documentación y pruebas | 
